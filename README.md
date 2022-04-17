@@ -1,1 +1,1 @@
-# set-mandelbrot-direct2d
+# set-mandelbrot
